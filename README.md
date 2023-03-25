@@ -17,11 +17,11 @@
 
 - 💬 Ask me about `OS, Linux, DSA, JS, HTML, CSS.`
 
-- 📄 Know about my experiences <a href="[https://drive.google.com/file/d/108dbvppceLWEET1g15iXErmRUGAfOCku/view?usp=sharing](https://drive.google.com/file/d/1AuR9cIF0sWu01eeBTt4AmQVVXHPCI-c7/view?usp=share_link)">Mohd Razaa Khan's Resume</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1AuR9cIF0sWu01eeBTt4AmQVVXHPCI-c7/view?usp=share_link" target="_blank">Mohd Razaa Khan's Resume</a>
 
-- 👨‍💻 All of my projects are available at <a href="https://mohdrazaakhan.github.io/">Mohd Razaa Khan's Portfolio</a>
+- 👨‍💻 All of my projects are available at <a href="https://mohdrazaakhan.github.io/" target="_blank">Mohd Razaa Khan's Portfolio</a>
 
-- 📮 Connect With Me On <a href="https://www.linkedin.com/in/mohd-razaa-khan-475996237/">LinkedIn</a>
+- 📮 Connect With Me On <a href="https://www.linkedin.com/in/mohd-razaa-khan-475996237/" target="_blank">LinkedIn</a>
 
 
 - 📨 Email ID : **razaakhan27@gmail.com**
