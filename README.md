@@ -1,6 +1,6 @@
 
- <img width=50% align=right  title="Musarraf"  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=🔰&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=32"/>
-<h1>Hi, I'm Musarraf Raza</h1>
+ <img width=50% align=right  title="Razaa"  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=🔰&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<h1>Hi, I'm Mohd Razaa Khan</h1>
 <p>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F70000&background=FFFFFF00&width=700&height=51&lines=Technical+Support+Engineer" alt="Typing SVG" /></a>
 </p>
@@ -10,21 +10,21 @@
  <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  width = "50%" height= "270" align = "right"> 
  
 </br> </br>
- [![Followers](https://img.shields.io/github/followers/musarraf207)](#)
- [![Stars](https://img.shields.io/github/stars/musarraf207?label=Profile%20Stars&logo=Profile%20stars&logoColor=b)](#) 
-![Profile views](https://gpvc.arturio.dev/musarraf207)
+ [![Followers](https://img.shields.io/github/followers/mohdrazaakhan)](#)
+ [![Stars](https://img.shields.io/github/stars/mohdrazaakhan?label=Profile%20Stars&logo=Profile%20stars&logoColor=b)](#) 
+![Profile views](https://gpvc.arturio.dev/mohdrazaakhan)
 - 💎 I’m currently Aspiring `Technical Support Engineering`
 
-- 💬 Ask me about `Database, OS, Linux, DSA, JS, HTML, CSS.`
+- 💬 Ask me about `OS, Linux, DSA, JS, HTML, CSS.`
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/108dbvppceLWEET1g15iXErmRUGAfOCku/view?usp=sharing">Musarraf's Resume</a>
+- 📄 Know about my experiences <a href="[https://drive.google.com/file/d/108dbvppceLWEET1g15iXErmRUGAfOCku/view?usp=sharing](https://drive.google.com/file/d/1AuR9cIF0sWu01eeBTt4AmQVVXHPCI-c7/view?usp=share_link)">Mohd Razaa Khan's Resume</a>
 
-- 👨‍💻 All of my projects are available at <a href="https://musarraf207.github.io/">Musarraf's Portfolio</a>
+- 👨‍💻 All of my projects are available at <a href="https://mohdrazaakhan.github.io/">Mohd Razaa Khan's Portfolio</a>
 
-- 📮 Connect With Me On <a href="https://www.linkedin.com/in/musarraf-raza-292983201/">LinkedIn</a>
+- 📮 Connect With Me On <a href="https://www.linkedin.com/in/mohd-razaa-khan-475996237/">LinkedIn</a>
 
 
-- 📨 Email ID : **musarraf207@gmail.com**
+- 📨 Email ID : **razaakhan27@gmail.com**
 
 </div>
 
@@ -73,11 +73,11 @@
 
 ## Trophy & Stats :
 
-| [![trophy](https://github-profile-trophy.vercel.app/?username=musarraf207)](https://github.com/ryo-ma/github-profile-trophy) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=musarraf207&layout=compact)](https://github.com/musarraf207/github-readme-stats) |
+| [![trophy](https://github-profile-trophy.vercel.app/?username=mohdrazaakhan)](https://github.com/ryo-ma/github-profile-trophy) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohdrazaakhan&layout=compact)](https://github.com/mohdrazaakhan/github-readme-stats) |
 | :---: | :---: |
 
 
-| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=musarraf207&theme=dark&show_icons=true&count_private=true) | [![GitHub Streak](https://streak-stats.demolab.com?user=musarraf207&theme=dark&border_radius=4)](https://git.io/streak-stats) |
+| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mohdrazaakhan&theme=dark&show_icons=true&count_private=true) | [![GitHub Streak](https://streak-stats.demolab.com?user=mohdrazaakhan&theme=dark&border_radius=4)](https://git.io/streak-stats) |
 | :---: | :---: |
 
 
