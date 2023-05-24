@@ -13,9 +13,9 @@
  [![Followers](https://img.shields.io/github/followers/mohdrazaakhan)](#)
  [![Stars](https://img.shields.io/github/stars/mohdrazaakhan?label=Profile%20Stars&logo=Profile%20stars&logoColor=b)](#) 
 ![Profile views](https://gpvc.arturio.dev/mohdrazaakhan)
-- 💎 I’m currently Aspiring `Technical Support Engineering`
+- 💎 I’m currently Aspiring `MERN Stack Developer`
 
-- 💬 Ask me about `OS, Linux, DSA, JS, HTML, CSS.`
+- 💬 Ask me about `React.js, MongoDB, Express.js, Node.js, JavaScript, HTML, CSS, Python, DSA`
 
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1AuR9cIF0sWu01eeBTt4AmQVVXHPCI-c7/view?usp=share_link" target="_blank">Mohd Razaa Khan's Resume</a>
 
